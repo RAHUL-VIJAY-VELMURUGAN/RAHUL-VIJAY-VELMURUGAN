@@ -36,5 +36,5 @@ Robotics Engineer at the RMI Club, NIT Trichy, and Manager of the Festember Mark
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/rahul-vijay-aa28a5343/
-Email: rahulvijay4320@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/rahul-vijay-aa28a5343/
+**Email:** rahulvijay4320@gmail.com
