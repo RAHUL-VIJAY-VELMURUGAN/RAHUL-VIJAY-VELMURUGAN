@@ -1,4 +1,4 @@
-# Hi, I am Rahul Vijay Velmurugan
+# Hi, I am Rahul Vijay 
 
 Third year B.Tech Mechanical Engineering student at NIT Tiruchirappalli (CGPA 9.80). I work on compliant mechanisms, robotics for prosthetics and thermal materials, and I am seeking research internships for summer 2027.
 
