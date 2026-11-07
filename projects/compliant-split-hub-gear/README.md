@@ -8,7 +8,7 @@ REU-CM 2026 research project | M2D2 Lab, Indian Institute of Science, Bengaluru 
 
 ## Overview
 
-Every gear train has backlash, a small angular gap between meshing teeth. Each time torque reverses, the driver crosses this dead zone before the driven gear moves, which limits positioning accuracy and destabilizes feedback control. The usual fix is a scissor gear, where the gear is split in two and a coil spring pushes the halves apart so both tooth flanks stay in contact. The spring is a separate part that wears, fatigues and traps contamination, which makes it a poor fit for small, sterilizable, maintenance free actuators.
+Every gear train has backlash, a small angular gap between meshing teeth. Each time torque reverses, the driver crosses this dead zone before the driven gear moves, which limits positioning accuracy and destabilizes feedback control. One of the fixes is a scissor gear, where the gear is split in two and a coil spring pushes the halves apart so both tooth flanks stay in contact. The spring is a separate part that wears, fatigues and traps contamination, which makes it a poor fit for small, sterilizable, maintenance free actuators.
 
 This project removes the spring. Two coaxial hub halves are joined by beam flexures built into the same body. Preloading the beams at assembly stores elastic energy, and that stored energy holds both flanks in contact. The motivating application is a miniature prosthetic finger actuator.
 
@@ -50,7 +50,7 @@ The final prototype images, videos and ANSYS result images from the seven weeks 
 
 [REU-CM-2026 on GitHub](https://github.com/RAHUL-VIJAY-VELMURUGAN/REU-CM-2026)
 
-The technical paper is still in preparation and cannot be shared publicly at the moment, so it is not included.
+The technical paper is still in preparation and full project details cannot be shared publicly at the moment, hence the repo is private for now
 
 ## Acknowledgements
 

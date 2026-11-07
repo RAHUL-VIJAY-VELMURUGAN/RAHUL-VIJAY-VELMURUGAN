@@ -8,7 +8,7 @@ Ongoing research project | NIT Tiruchirappalli
 
 ## Overview
 
-This project aims to build a modular, multi degree of freedom prosthetic arm whose joints follow the kinematics of the human arm. Actuators are sized from the torque each joint must deliver. A sensorized teleoperation glove is used to collect datasets and to drive the arm directly, and machine learning models map biosignals to joint actuation.
+ A modular arm based on human arm kinematics, with actuators sized from torque and load analysis and machine learning models that map biosignals to joint actuation. FEA and design for manufacturing check structural safety.
 
 ## Focus areas
 

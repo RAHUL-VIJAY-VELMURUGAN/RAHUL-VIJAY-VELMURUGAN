@@ -26,8 +26,7 @@ The overhead camera gives a global view, so every robot and crate has a known po
 
 ## My contribution
 
-I worked on path planning and collision avoidance, using Theta* planning and ORCA avoidance, and deployed and tuned them on the physical robots.
-
+I worked on path planning and collision avoidance, using Theta* planning and ORCA avoidance, and deployed and tuned them on the physical robots. I also worked on designing the bots, arena setup and sensor calibration
 ## Tools
 
 ROS 2 Humble, Python, OpenCV with ArUco markers, MQTT, ESP32 firmware, Gazebo, SolidWorks
