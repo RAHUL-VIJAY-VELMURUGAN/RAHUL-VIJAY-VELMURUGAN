@@ -5,7 +5,7 @@ Third year B.Tech Mechanical Engineering student at NIT Tiruchirappalli (CGPA 9.
 ## Research and experience
 
 **Research Intern, M2D2 Lab, IISc Bengaluru (May to July 2026)**
-Designed a compliant split hub gear for a prosthetic finger joint actuator, using monolithic beam flexures in place of a coil spring to remove backlash passively. Built a Castigliano flexibility model and a nonlinear elastic solver, validated against ANSYS, and automated gear profile generation with Python, DXF and SolidWorks. The technical paper is in preparation.
+Designed a compliant split hub gear for a prosthetic finger joint actuator, using monolithic beam flexures in place of a coil spring to remove backlash passively. Built a Castigliano flexibility model and a nonlinear elastic solver, validated against ANSYS, and automated gear profile generation with Python, DXF and SolidWorks. Authored ASME REU-CM Technical Report. The technical paper is in preparation.
 
 **Winter Intern, NIT Tiruchirappalli (November to December 2025)**
 Developed and characterized nano enhanced eutectic phase change materials (caprylic acid and capric acid with boron nitride nanoparticles) for vaccine cold chain logistics in the 2 to 8 °C range.
@@ -40,5 +40,5 @@ Robotics Engineer at the RMI Club, NIT Trichy, and Manager of the Festember Mark
 
 ## Contact
 
-LinkedIn: add your link here
-Email: add your email here
+**LinkedIn:** https://www.linkedin.com/in/rahul-vijay-aa28a5343/
+**Email:** rahulvijay4320@gmail.com
